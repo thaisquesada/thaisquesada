@@ -1,5 +1,5 @@
-## Hello, I'm Thais Quesada :fox_face:
-
+<h1 align="center"> Hello, I'm Thais Quesada :fox_face:</h1>
+  
   <p align="center">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaisquesada&show_icons=true&include_all_commits&count_private=true&custom_title=Github%20Activity&theme=dracula" height="155em" />
