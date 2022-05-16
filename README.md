@@ -2,9 +2,9 @@
   
   <p align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaisquesada&show_icons=true&include_all_commits&count_private=true&custom_title=Github%20Activity&theme=dracula" height="155em" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaisquesada&show_icons=true&include_all_commits&count_private=true&custom_title=Github%20Activity&theme=dracula" height="145em" />
 
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisquesada&card_width=250&custom_title=Most%20used%20languages&langs_count=8&layout=compact&theme=dracula" height="155em" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisquesada&card_width=250&custom_title=Most%20used%20languages&langs_count=8&layout=compact&theme=dracula" height="145em" />
 
   <h2 align="center">I'm learning...</h2>
   
