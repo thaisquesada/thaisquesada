@@ -1,12 +1,12 @@
-## Hello, I'm Thais Quesada!
+## Hello, I'm Thais Quesada :fox_face:
 
-<div align="center">
-  <a href="https://github.com/thaisquesada">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaisquesada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisquesada&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <p align="center">
   
-  ### Learning...
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaisquesada&show_icons=true&include_all_commits&count_private=true&custom_title=Github%20Activity&theme=dracula" height="155em" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisquesada&card_width=250&custom_title=Most%20used%20languages&langs_count=8&layout=compact&theme=dracula" height="155em" />  
+
+  <h2 align="center">I'm learning...</h2>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Thais-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
