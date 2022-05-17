@@ -20,4 +20,4 @@
   <img align="center" alt="Thais-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Thais-Postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 
-  ![Contador](https://komarev.com/ghpvc/?username=ThaisQuesada)
+<br>![Contador](https://komarev.com/ghpvc/?username=ThaisQuesada)
