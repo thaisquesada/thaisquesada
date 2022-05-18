@@ -1,7 +1,5 @@
 <h1 align="center"> Hello, I'm Thais Quesada :fox_face:</h1><br>
   
-  <p align="center">
-
   <h2 align="center">I'm learning...</h2>
   
   <div align="center">
@@ -15,5 +13,3 @@
   <img align="center" alt="Thais-Spring" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Thais-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Thais-Postgresql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-
-<br>![Contador](https://komarev.com/ghpvc/?username=ThaisQuesada)
