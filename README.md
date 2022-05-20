@@ -1,4 +1,8 @@
 <h1 align="center"> Hello, I'm Thais Quesada :fox_face:</h1><br>
+
+  [![Thais Quesada's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaisquesada&theme=material-palenight&show_icons=true)](https://github.com/thaisquesada/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisquesada&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
   <h2 align="center">I'm learning...</h2>
   
