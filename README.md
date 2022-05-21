@@ -1,4 +1,4 @@
-## Hello! I'm Thais Quesada 🦊
+<h2 align="center"> Hello! I'm Thais Quesada 🦊 </h2><br>
   
 <div align="center">
   <a href="https://github.com/thaisquesada">
