@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I'm Thais Quesada 🦊</h2>
+<h2 align="left">Hello! I'm Thais Quesada!</h2>
 
 ###
 
